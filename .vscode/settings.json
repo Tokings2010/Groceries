@@ -1,0 +1,11 @@
+{
+    "nativescript-extend.fileAssociations": [
+        {
+            "systemId": "c:\\Users\\GBELEYI\\Groceries\\schema\\tns.xsd",
+            "pattern": "**/**/*.xml"
+        }
+    ],
+    "files.exclude": {
+        "schema": true
+    }
+}
